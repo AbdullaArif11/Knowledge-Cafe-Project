@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/xgXLQnx/1.jpg",
+    "title": "The Mystery of the Lost Key",
+    "author": "Alice Johnson",
+    "author_image": "https://i.ibb.co/PwnnM0k/boy1.png",
+    "posted_date": "2023-09-19",
+    "reading_time": 2,
+    "hashtags": ["mystery", "adventure", "puzzle"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/56MGLDj/3.png",
+    "title": "A Journey Through Time",
+    "author": "David Smith",
+    "author_image": "https://i.ibb.co/prZsz53/boy2.jpg",
+    "posted_date": "2023-09-18",
+    "reading_time": 3,
+    "hashtags": ["history", "time-travel", "exploration"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/nwrc91W/2.png",
+    "title": "Cooking Delights",
+    "author": "Emily White",
+    "author_image": "https://i.ibb.co/7vG4pXs/girl1.jpg",
+    "posted_date": "2023-09-17",
+    "reading_time": 1.5,
+    "hashtags": ["cooking", "recipes", "foodie"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/n3yjBhR/4.jpg",
+    "title": "The Art of Photography",
+    "author": "Michael Brown",
+    "author_image": "https://i.ibb.co/LtdvBGH/girl2.jpg",
+    "posted_date": "2023-09-16",
+    "reading_time": 2.5,
+    "hashtags": ["photography", "art", "creativity"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/nwrc91W/2.png",
+    "title": "Exploring the Cosmos",
+    "author": "Sophia Adams",
+    "author_image": "https://i.ibb.co/LtdvBGH/girl2.jpg",
+    "posted_date": "2023-09-15",
+    "reading_time": 4,
+    "hashtags": ["space", "science", "astronomy"]
+  }
+]
